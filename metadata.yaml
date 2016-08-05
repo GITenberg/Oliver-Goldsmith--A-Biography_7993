@@ -1,0 +1,27 @@
+_repo: Oliver-Goldsmith--A-Biography_7993
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Irving, Washington
+    alias: Crayon, Geoffrey
+    birthdate: 1783
+    deathdate: 1859
+    gutenberg_agent_id: '34'
+    url: http://www.gutenberg.org/2009/agents/34
+    wikipedia: http://en.wikipedia.org/wiki/Washington_Irving
+description: ''
+gutenberg_issued: '2005-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7993'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Goldsmith, Oliver, 1730?-1774'
+- !lcsh 'Authors, Irish -- 18th century -- Biography'
+- GITenberg
+title: 'Oliver Goldsmith: A Biography'
+url: http://www.gutenberg.org/ebooks/7993
