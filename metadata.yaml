@@ -1,5 +1,8 @@
 _repo: Oliver-Goldsmith--A-Biography_7993
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Irving, Washington
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/34
     wikipedia: http://en.wikipedia.org/wiki/Washington_Irving
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7993#Oliver-Goldsmith--A-Biography
 gutenberg_issued: '2005-04-01'
 gutenberg_type: Text
 identifiers:
